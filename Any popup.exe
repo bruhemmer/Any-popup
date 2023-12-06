@@ -1,0 +1,19 @@
+Msgbox "havin a good day?"
+dim x,yes,no
+x=Msgbox("ok",52,"popup.exe")
+if x=6 then
+dim box
+box=Msgbox("whassgood",36,"bird is danword")
+if box=6 then
+Msgbox "nothing",16,"idkkk"
+Msgbox "Just kid",64,"Ma"
+end if
+if box=7 then
+Msgbox "Fat",16,"idkk"
+Msgbox "Just kidding, this was all a joke, but i did scare you didn't I ? Héhé...",64,"Made  "
+end if
+end if
+if x=7 then
+Msgbox "Fatal error, code 08x48631643.B-7",16,"idk"
+Msgbox "Just kidding, this was all a joke, but i did scare you didn't I ? Héhé...",64,"Made by a 2020 chevy siverado"
+end if
